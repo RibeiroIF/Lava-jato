@@ -1,4 +1,4 @@
-<h3 style="text-align: center";> Sistema de Lavação - Projeto Norteador </h3>
+<h1 style text align = center> Sistema de Lavação - Projeto Norteador </h1>
 
 <p> Esta é uma realização do projeto de sistema norteador do curso de CTDS do IFSC, que consiste em um Sistema de Lavação de carros <br>
 O projeto está em sua primeira etapa, aplicando os conhecimentos de POO I e salvando os dados na memória <br>
